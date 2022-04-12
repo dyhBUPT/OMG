@@ -43,6 +43,10 @@ python train.py --config configs/Swin-B+CLIP-B_OMG2a_NLAug_IDLoss.yaml --valnum 
 python test.py
 ```
 
+## Note
+
+- We also design the OSG framework for the ensemble. Please refer to the [code](https://github.com/binging512/AICity2022Track2-OSG) for details.
+
 ## Citation
 
 TODO
