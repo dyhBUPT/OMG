@@ -49,7 +49,7 @@ python test.py
 
 ## Citation
 
-TODO
+TBA
 
 ## Acknowledgement
 
