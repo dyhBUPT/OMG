@@ -24,7 +24,7 @@ Retrieving tracked-vehicles by natural language descriptions plays a critical ro
 
 #### Data Preparation
 
-TODO
+Baidu Disk: [link](https://pan.baidu.com/s/1rxmlk-XZVTi5tjKOHTRAXg) with code "city"
 
 #### Requirements
 
