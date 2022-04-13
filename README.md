@@ -16,8 +16,6 @@ Retrieving tracked-vehicles by natural language descriptions plays a critical ro
 
 ![image-20220412190740408](assets/ablation1.png)
 
-![image-20220412190756155](assets/ablation2.png)
-
 <img src="assets/comparison1.png" width="400px"><img src="assets/comparison2.png" width="400px">
 
 ## Run
