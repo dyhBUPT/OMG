@@ -1,6 +1,8 @@
 # OMG
 
-OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval
+Title: **OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval**
+
+The paper has been accepted by CVPR 2022 Workshop.
 
 ## Abstract
 
