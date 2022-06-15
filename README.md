@@ -2,7 +2,7 @@
 
 Title: **OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval**
 
-The paper has been accepted by CVPR 2022 Workshop.
+The paper has been accepted by [CVPR 2022 Workshop](https://openaccess.thecvf.com/content/CVPR2022W/AICity/html/Du_OMG_Observe_Multiple_Granularities_for_Natural_Language-Based_Vehicle_Retrieval_CVPRW_2022_paper.html).
 
 ## Abstract
 
@@ -49,7 +49,16 @@ python test.py
 
 ## Citation
 
-TBA
+```latex
+@InProceedings{Du_2022_CVPR,
+    author    = {Du, Yunhao and Zhang, Binyu and Ruan, Xiangning and Su, Fei and Zhao, Zhicheng and Chen, Hong},
+    title     = {OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {3124-3133}
+}
+```
 
 ## Acknowledgement
 
